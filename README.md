@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/Jace-Tech](https://github.com/Jace-Tech)
 
-- ⚡ Fun fact **I'm very shy 🙈 🙈**
+- ⚡ Fun fact ** I hated JS earlier 😁😁😁 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
