@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/jacealexander20" target="blank"><img src="https://img.shields.io/twitter/follow/jacealexander20?logo=twitter&style=for-the-badge" alt="jacealexander20" /></a> </p>
 
-- 🔭 I’m currently working on [iRent App](https://github.com/Jace-Tech/Rent-Me.git)
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jace-Tech](https://github.com/Jace-Tech)
