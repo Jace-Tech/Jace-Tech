@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jace-tech&label=Profile%20views&color=0e75b6&style=flat" alt="jace-tech" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jace-tech&rank=SSS,AAA,SS,SECRET" alt="jace-tech" /> </p>
+<p style="display: flex; justify-content: center;"> <img src="https://github-profile-trophy.vercel.app/?username=jace-tech&rank=SSS,AAA,SS,SECRET" alt="jace-tech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jacealexander20" target="blank"><img src="https://img.shields.io/twitter/follow/jacealexander20?logo=twitter&style=for-the-badge" alt="jacealexander20" /></a> </p>
 
